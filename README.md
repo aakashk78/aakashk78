@@ -1,5 +1,5 @@
-![Header](./[github-header-image])
-<h1 align="center">Hi 👋, I'm Aakash</h1>
+<img src = "https://github.com/aakashk78/aakashk78/blob/main/github-header-image.png" alt = "Header Image" />
+
 <h3 align="center">PhD Student at IIT Roorkee, with a keen interest in Data Science & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashk78&label=Profile%20views&color=0e75b6&style=flat" alt="aakashk78" /> </p>
