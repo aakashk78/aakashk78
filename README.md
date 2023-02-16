@@ -1,3 +1,4 @@
+![Header](./[github-header-image])
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">PhD Student at IIT Roorkee, with a keen interest in Data Science & ML</h3>
 
