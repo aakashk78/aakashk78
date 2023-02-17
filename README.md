@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Apache Hadoop**
 
-- 👨‍💻 Check out my **Data Visualization Portfolio** here: [Tableau Public Profile](https://public.tableau.com/app/profile/aakash7925)
+- 👨‍💻 Check out my **Data Visualization Portfolio** here: **[Tableau Public Profile]**(https://public.tableau.com/app/profile/aakash7925)
 
 - 💬 Ask me about:  **Python, Tableau, ML, Supply Chain Analytics**
 
 - 📫 How to reach me:  **aakash_k@ms.iitr.ac.in**
 
-- 📄 Know about my experiences:  [Resume](https://flowcv.com/resume/epdw5odbm1)
+- 📄 Know about my experiences:  **[Resume]**(https://flowcv.com/resume/epdw5odbm1)
 
 - ⚡ Fun fact:  **My love for sandwiches is eternal ❣️**
 
