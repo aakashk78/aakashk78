@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my **Data Visualization Portfolio** here: [Tableau Public Profile](https://public.tableau.com/app/profile/aakash7925)
 
-- 💬 Ask me about:  **Python, Tableau, ML, Supply Chain Analytics**
+- 💬 Ask me about:  **Python, Tableau, ML, Supply Chain Analytics, Reinforcement Learning**
 
 - 📫 How to reach me:  **aakash_k@ms.iitr.ac.in**
 
