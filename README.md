@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Apache Hadoop**
 
-- 👨‍💻 Check out my Data Visualization Portfolio here: [Tableau Public Profile](https://public.tableau.com/app/profile/aakash7925)
+- 👨‍💻 Check out my **Data Visualization Portfolio** here: [Tableau Public Profile](https://public.tableau.com/app/profile/aakash7925)
 
 - 💬 Ask me about:  **Python, Tableau, ML, Supply Chain Analytics**
 
